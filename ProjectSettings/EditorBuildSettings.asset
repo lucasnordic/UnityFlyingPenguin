@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/_preload.unity
+    guid: aa1d0e26cfe8ddb468f57759602f2bfa
+  - enabled: 1
+    path: Assets/Scenes/BouncyPenguin-Level1.unity
+    guid: e89fd854d13c1324da585253a8dacff3
+  - enabled: 0
+    path: Assets/Scenes/OLD/FirstScene/Level1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 0
+    path: Assets/Scenes/OLD/Level1.unity
+    guid: 1ecdc0ea5225d4e44955ef3b8376ff8b
+  - enabled: 0
+    path: Assets/Scenes/OLD/Level2.unity
+    guid: 081eb5de9f06d9e4291a15f3d92de241
+  - enabled: 0
+    path: Assets/Scenes/OLD/Level3.unity
+    guid: 81dc3c797c55a894e8180489baf69fdf
+  - enabled: 0
+    path: Assets/Scenes/OLD/Level4.unity
+    guid: 9d9486e29f80889489c3d48210c8615f
+  - enabled: 0
+    path: Assets/Scenes/OLD/Level5.unity
+    guid: e5f4f39c11344cd4f8b2ca347fda69b6
+  m_configObjects: {}

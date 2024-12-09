@@ -1,0 +1,346 @@
+fileFormatVersion: 2
+guid: b51f8ea8094825e4d8a52c3976dbcd51
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: life-01_2
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 35
+        width: 108
+        height: 97
+      alignment: 9
+      pivot: {x: 0.48814902, y: 0.49999985}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66e5cacb0001e44ca1af5e02103fe46
+      internalID: -1453933501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: life-01_3
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 35
+        width: 120
+        height: 116
+      alignment: 9
+      pivot: {x: 0.5853266, y: 0.42276454}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c603290acf73547b5694d933473375
+      internalID: 1764958014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: life-01_4
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 4
+        width: 92
+        height: 127
+      alignment: 9
+      pivot: {x: 0.60433924, y: 0.6259746}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e7c3d20a0e2414187de48a81b55042
+      internalID: -1054052620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: life-01_6
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 35
+        width: 81
+        height: 97
+      alignment: 9
+      pivot: {x: 0.6738134, y: 0.5131947}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c799314f38381d44098c514ea1c0c6ac
+      internalID: 1677292269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: life-01_7
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 35
+        width: 56
+        height: 96
+      alignment: 9
+      pivot: {x: 0.6002764, y: 0.5053177}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96089b87c12a3bb4a8d0bc0d060faaf7
+      internalID: -1462295597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: life-01_8
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 35
+        width: 63
+        height: 97
+      alignment: 9
+      pivot: {x: 0.4189676, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb8add8790c04bb4586392555d0f08bf
+      internalID: -13523077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: life-01_9
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 2
+        width: 87
+        height: 129
+      alignment: 9
+      pivot: {x: 0.6056196, y: 0.6334258}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16efda51d0fe9474fa64ca0a440024e8
+      internalID: 1674732487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: life-01_10
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 35
+        width: 124
+        height: 97
+      alignment: 9
+      pivot: {x: 0.48666826, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd389d97e58a14149b44064f981bce1a
+      internalID: -1257445651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: life-01_11
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 35
+        width: 130
+        height: 129
+      alignment: 9
+      pivot: {x: 0.38978553, y: 0.3675712}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b35bd4dddfba544a8448de064f62e7
+      internalID: -1728007470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      life-01_1: 1732335126
+      life-01_9: 1674732487
+      life-01_16: -2077085562
+      life-01_10: -1257445651
+      life-01_7: -1462295597
+      life-01_2: -1453933501
+      life-01_19: 1525544117
+      life-01_5: -1733242783
+      life-01_17: -1863671854
+      life-01_20: -160172390
+      life-01_18: 1840828058
+      life-01_8: -13523077
+      life-01_6: 1677292269
+      life-01_12: 1658840634
+      life-01_3: 1764958014
+      life-01_14: 702722155
+      life-01_4: -1054052620
+      life-01_21: -1271591794
+      life-01_0: 402221377
+      life-01_13: -781162174
+      life-01_15: -958316555
+      life-01_11: -1728007470
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

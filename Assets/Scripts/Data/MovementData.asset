@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0831ab8a72a2782439d32032a7b09c8b, type: 3}
+  m_Name: MovementData
+  m_EditorClassIdentifier: 
+  maxLife: 1
+  maxScore: 9999
+  gravity: 2
+  moveSpeed: 5
+  jumpForce: 6
+  slideSpeed: 10
+  ballBounceForce: 5
+  ballSpeedMultiplier: 0.8
+  ballStateDuration: 2
+  startAirSpeed: 6
+  airMoveForce: 0.1
+  maxAirSpeed: 10
+  airJumpForce: 10
+  maxJumpHeight: 10
+  jumpCutHeight: 1000
+  bounciness: 0.5
+  rollMultiplier: 1
+  introJumpHeight: 8
+  introHorizontalSpeed: 9
+  introJumpTriggerHeight: 3
+  introStartPosition: {x: 0, y: 3}

@@ -1,0 +1,39 @@
+[Launch Game Voicelines]
+
+"Great scott!" he exclaimed in utter disbelief. "<break time="0.3s"/> A penguin? Among these trees? <break time="0.4s"/> And it appears to be attempting some sort of... aerial navigation!"
+
+"Impossible!" he whispered in amazement. "<break time="0.3s"/> A penguin, this far from the coast? <break time="0.2s"/> How is the mad bastard generating... lift!?"
+
+
+[Start Game Voicelines]
+
+"Ah..." he murmured thoughtfully. "<break time="0.3s"/> What a remarkable specimen! A penguin attempting aerial maneuvers."
+
+"Well well!" he said with a warm chuckle. "<break time="0.5s"/> Our flightless friend appears to have ambitions."
+
+"Is that... <break time="0.4s"/> yes, a penguin practicing vertical locomotion!" he whispered excitedly."
+
+
+[Loose Life Voicelines]
+
+"Ahh! A slight miscalculation in trajectory."
+
+"Not to worry," he said reassuringly. "<break time="0.2s"/> Even the Emperor Penguin stumbles occasionally."
+
+"Oh dear..."
+"Goodness!"
+"Ouch... <break time="0.2s"/> That looked rather unfortunate."
+"Oh! <break time="0.1s"/> Not quite the landing we hoped for."
+"Oof <break time="0.2s"/> Bit of a rough patch there."
+"My word!"
+"Ah... <break time="0.2s"/> Perhaps we should make a note to avoid that particular obstacle."
+"Oh no no no..."
+"Oh dear <break time="0.2s"/> Do watch out for that rather nasty ice formation."
+"A slight miscalculation in trajectory. <break time="0.3s"/> Let's make a note of that."
+"Not to worry. <break time="0.2s"/> Even the Emperor Penguin stumbles occasionally."
+"Goodness! <break time="0.2s"/> A rather unfortunate collision."
+
+
+[End Game Voicelines]
+
+"Well," he sighed wistfully, "<break time="0.4s"/> I suppose that concludes today's field observations. Perhaps we shall attempt this curious experiment again tomorrow?"
