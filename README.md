@@ -1,10 +1,6 @@
 # A game called Flying Penguin
 
-© 2025 Lucas Nordgren. All rights reserved.
-<br/>
-<br/>
-
-I coded, designed and created the music for this game. 
+I coded, designed and created the music for this game. © 2025 Lucas Nordgren. All rights reserved.
 
 ## How to run
 * Download the latest Release, or
