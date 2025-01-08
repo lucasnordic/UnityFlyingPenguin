@@ -8,6 +8,7 @@ public class PlayerController : MonoBehaviour
     [SerializeField] private MovementData movementData;
 
     // Component references
+    private GameSettings gameSettings;
     private Rigidbody2D rb;
     private float highestHorizontalSpeed;
 
@@ -24,6 +25,7 @@ public class PlayerController : MonoBehaviour
     {
         rb = GetComponent<Rigidbody2D>();
         highestHorizontalSpeed = movementData.startAirSpeed;
+        gameSettings = GameSettingsManager.Instance.Settings;
     }
 
     public void Move(Vector2 velocity)
