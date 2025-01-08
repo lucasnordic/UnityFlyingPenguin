@@ -6,6 +6,10 @@
 
 I coded, designed and created the music for this game. 
 
+## How to run
+* Download the latest Release, or
+* Download the project and open in Unity Version 2021.3.13f1
+
 ## The programs and services I used
 
 * Unity 2021, Visual Studio 2022
@@ -38,15 +42,3 @@ Movement Protocol:
 ## Gameplay Video
 
 <video src="https://github.com/user-attachments/assets/15a2edc3-a046-47f2-a7a6-e05a6f7a0e31" width="300" />
-
-
-
-
-
-
-
-
-
-
-
-
